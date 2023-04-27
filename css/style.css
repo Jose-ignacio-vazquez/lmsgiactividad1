@@ -1,0 +1,34 @@
+
+header.cabecera{
+    background-image: url("/img/pexels-pixabay-534283.jpg");
+    text-align: center;
+    background-size: contain;
+    background-color: aqua;
+    color:blue;
+}
+
+nav a:hover{
+    color: aliceblue;
+}
+/*
+FORMULARIO
+*/
+.formulario{
+    background-color: azure;
+}
+.menor{
+    background-color: bisque;
+}
+.adulto{
+    background-color: cornsilk;
+}
+.informacion{
+    background-color: burlywood;
+    margin:10px;
+}
+.instrucciones{
+    background-color:darkgrey;
+}
+.condiciones{
+    background-color: antiquewhite;
+}
